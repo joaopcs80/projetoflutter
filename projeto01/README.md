@@ -1,8 +1,8 @@
-# projeto01
+# Projeto - 01
 
-A new Flutter project.
+Um Novo Projeto Flutter.
 
-## Getting Started
+## Começando...
 
 This project is a starting point for a Flutter application.
 
